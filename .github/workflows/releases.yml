@@ -21,10 +21,11 @@ jobs:
             tar -zcvf "$dir.tar.gz" "$dir"
           done
 
-      - name: Upload Release
-        id: upload_release
+      - name: Upload Releases
+        id: upload_releases
         uses: softprops/action-gh-release@v1
         with:
           files: |
             *.tar.gz
-          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
