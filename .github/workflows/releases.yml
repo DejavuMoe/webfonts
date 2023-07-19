@@ -1,0 +1,30 @@
+name: Releases
+
+on:
+  push:
+    tags:
+      - "*"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Create Releases
+        id: create_releases
+        run: |
+          for dir in */; do
+            dir=${dir%*/}
+            tar -zcvf "$dir.tar.gz" "$dir"
+          done
+
+      - name: Upload Release
+        id: upload_release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            *.tar.gz
+          token: ${{ secrets.GITHUB_TOKEN }}
