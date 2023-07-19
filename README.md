@@ -6,6 +6,7 @@ Free open source fonts out of the box for web pages.
 | :------------------------------------------: | :----------------------------------------------------------: |
 |                zpix（最像素）                | [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) |
 |                    MiSans                    |                [mi.com](https://www.mi.com/)                 |
+|              HarmonyOS Sans SC               | [developer.harmonyos.com](https://developer.harmonyos.com/cn/docs/design/font-0000001157868583) |
 |                   FiraCode                   |    [tonsky/FiraCode](https://github.com/tonsky/FiraCode)     |
 |            LXGWWenKai（霞鹜文楷）            |    [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai/)    |
 |      LXGWWenKaiMono（霞鹜文楷 - 等宽）       |    [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai/)    |
@@ -16,6 +17,4 @@ Free open source fonts out of the box for web pages.
 
 - Download the font assets you want from the [releases page](https://github.com/DejavuMoe/webfonts/releases) and unzip them into your site's static resources directory.
 
-- Import the font CSS style file in the source code of your website, and set
-
-  `font-family: '<the font name>';`
+- Import the font CSS style file in the source code of your website, and set: `font-family: '<the font name>';`
