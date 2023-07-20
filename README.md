@@ -8,6 +8,7 @@ Free open source fonts out of the box for web pages.
 |                    MiSans                    |                [mi.com](https://www.mi.com/)                 | Free and commercially available.                         |
 |              HarmonyOS Sans SC               | [developer.harmonyos.com](https://developer.harmonyos.com/cn/docs/design/font-0000001157868583) | Free and commercially available.                         |
 |                   FiraCode                   |    [tonsky/FiraCode](https://github.com/tonsky/FiraCode)     | Free and commercially available.                         |
+|        CEFFontsCJK（快去写作业 CJK）         | [Partyb0ssishere/cef-fonts-cjk](https://github.com/Partyb0ssishere/cef-fonts-cjk) | Free and commercially available.                         |
 |          SentyCaramel（新帝焦糖体）          | [www.sentyfont.com/caramel](https://www.sentyfont.com/caramel.htm) | Free for **non-commercial** personal use.                |
 |            LXGWWenKai（霞鹜文楷）            |    [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai/)    | Free and commercially available.                         |
 |      LXGWWenKaiMono（霞鹜文楷 - 等宽）       |    [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai/)    | Free and commercially available.                         |
