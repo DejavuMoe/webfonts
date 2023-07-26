@@ -14,6 +14,7 @@ Free open source fonts out of the box for web pages. Visit **[Live Demo](https:/
 |      LXGWWenKaiMono（霞鹜文楷 - 等宽）       |    [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai/)    | Free and commercially available.                         |
 |      LXGWWenKaiLite（霞鹜文楷 - 轻便）       | [lxgw/LxgwWenKai-Lite](https://github.com/lxgw/LxgwWenKai-Lite) | Free and commercially available.                         |
 | LXGWWenKaiMonoLite（霞鹜文楷 - 轻便 - 等宽） | [lxgw/LxgwWenKai-Lite](https://github.com/lxgw/LxgwWenKai-Lite) | Free and commercially available.                         |
+|     LXGWNeoZhiSongCHS（霞鹜新致宋 - 简）     | [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) | Free and commercially available.                         |
 
 **How to use?**
 
